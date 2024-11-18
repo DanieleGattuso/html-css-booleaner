@@ -30,10 +30,34 @@ h1 {
 .p2_testo {
     font-size: 10px;
 }
-main{
 
-    
-
+#table_color_line0 {
+    background-color: rgb(52, 122, 252);
 }
 
+.table_color_line1 {
+    background-color: rgb(65, 196, 248);
+}
    
+#p3_testo {
+    color: gray;
+}
+
+.h3_imagebackground0 {
+    background-image: url(../img/monitor.jpg);
+    margin: 0%;
+    font-size: 140%;
+    width: 240px;
+    height: 150px;
+    color: white;
+}
+
+.h3_imagebackground1 {
+    background-image: url(../img/graph.jpg);
+    margin: 0%;
+    font-size: 140%;
+    width: 240px;
+    height: 150px;
+    color: white;
+}
+
