@@ -1,4 +1,9 @@
 
+body {
+    background-color: white;
+}
+
+
 header{
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -17,7 +22,18 @@ h1 {
     font-size: 45px;
 }
 
-#p2_testo {
+.p1_testo {
     font-size: 10px;
     color: gray;
+}
+
+.p2_testo {
+    font-size: 10px;
+}
+main{
+
+    .evidenziatore {
+        background:yellow;
+    }
+
 }
